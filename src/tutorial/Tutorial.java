@@ -11,13 +11,15 @@ package tutorial;
  */
 public class Tutorial {
     private int ciao;
+    private String prova;
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //ciao sono un commento del tutorial
+        //ciao sono
+        //ciao sono un altra prova
     }
     
 }
